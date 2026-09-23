@@ -4,6 +4,9 @@
 Instead of geode, it just injects a dll into the process
 ( I kind of think geode is lame so I wanted to challenge myself )
 
+This does flag as a virus on my system, this is because it injects into a process.
+If you really don't feel safe downloading it, you can build it yourself and check the entire source code.
+
 This only works on the windows version of gd
 If you want to fix it
 
