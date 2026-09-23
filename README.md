@@ -1,3 +1,4 @@
+# IF YOU BEAT TOO MANY LEVELS IN LOW ATTEMPTS WITH NOCLIP, YOU WILL GET LEADERBOARD BANNED
 # GD Standalone Noclip
 
 Instead of geode, it just injects a dll into the process
