@@ -1,0 +1,10 @@
+.vs/
+*.vsidx
+*.db
+*.opendb
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb

@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NoclipDLL/NoclipDLL.vcxproj" Id="c73a854a-ed0b-44f6-ad29-b0727fdef271" />
+  <Project Path="NoclipInjector/NoclipInjector.vcxproj" Id="fbef8c1b-5fd3-4148-b7c1-780cd99a537b" />
+</Solution>
